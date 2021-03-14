@@ -1,2 +1,2 @@
 ### Hi there 
-![Опа](https://pbs.twimg.com/media/EuMTRvoWYAs8yL-.jpg:large)
+![Опа](https://pbs.twimg.com/media/EuMTRvoWYAs8yL-.jpg)
