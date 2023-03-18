@@ -8,3 +8,4 @@ I identify myself as a programmer.
    * [damn-generator](https://github.com/PaveTranquil/damn-generator)
 3. Other projects:
    * [Prog_fundamentals_CP](https://github.com/bogtogus/Prog_fundamentals_CP)
+   * [Data_structs_n_algorithms](https://github.com/bogtogus/Data_structs_n_algorithms)
