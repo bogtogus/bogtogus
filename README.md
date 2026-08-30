@@ -1,5 +1,5 @@
 ## About
-I identify myself as a C++ programmer.
+Some kind of programmer.
 
 ## Content:
 1. Pet projects:
