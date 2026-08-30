@@ -10,4 +10,4 @@ I identify myself as a C++ programmer.
 3. Other projects
    * [Programming fundamentals (course project)](https://github.com/bogtogus/Prog_fundamentals_CP);
    * [Data structs and algorithms (course project)](https://github.com/bogtogus/Data_structs_n_algorithms)
-   * Object Oriented Programming (course project)
+   * [Object Oriented Programming (course project)](https://github.com/bogtogus/Object_oriented_prog)
